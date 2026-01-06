@@ -1,0 +1,10 @@
+{
+  "serial_port": "COM7",
+  "aim_active": false,
+  "stream_proof": false,
+  "aim_key": 6,
+  "fov": 45,
+  "smooth": 2.30,
+  "lower_color": { "h": 150, "s": 76, "v": 123 },
+  "upper_color": { "h": 150, "s": 195, "v": 255 }
+}
