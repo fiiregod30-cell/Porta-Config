@@ -1,11 +1,20 @@
 {
   "serial_port": "COM7",
-  "aim_active": false,
-  "stream_proof": false,
+  "aim_active": true,
+  "stream_proof": true,
   "aim_key": 6,
+  "game": 1,
+  "esp_line": false,
+  "esp_name": false,
+  "esp_box": false,
+  "esp_skeleton": false,
+  "esp_distance": false,
+  "no_recoil": false,
+  "chams": false,
+  "anticheat_bypass": false,
+  "fov_changer": false,
   "fov": 45,
   "smooth": 2.30,
-  "lower_color": { "h": 150, "s": 76, "v": 123 },
-  "upper_color": { "h": 150, "s": 195, "v": 255 },
-  "current_color": "Purple"
+  "lower_color": { "h": 0, "s": 125, "v": 185 },
+  "upper_color": { "h": 10, "s": 255, "v": 255 }
 }
